@@ -1,0 +1,15 @@
+START
+-> Check authentication and role
+   -> Is Admin?
+      -> Add new employee
+      -> Add new table
+      -> Delete table
+   -> Is Employee?
+      -> Get tables
+      -> Check available time slots
+         -> Are there available time slots?
+            -> Reserve a time slot
+            -> Confirm reservation
+         -> No available time slots
+            -> Deny reservation
+END

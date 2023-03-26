@@ -1,0 +1,16 @@
+
+autopep8==1.7.0
+black==22.8.0
+flake8==5.0.4
+
+
+django-coverage-plugin==2.0.3 # https://github.com/nedbat/django_coverage_plugin
+pytest-django==4.5.2 # https://github.com/pytest-dev/pytest-django
+Django==4.1.1
+django-unique-upload==0.2.1
+djangorestframework==3.13.1
+psycopg2-binary==2.9.3 # https://github.com/psycopg/psycopg2
+python-decouple==3.6
+djoser==2.1.0
+django-solo==2.0.0
+mixer==7.2.2
